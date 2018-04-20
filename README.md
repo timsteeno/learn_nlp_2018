@@ -1,5 +1,10 @@
 # Natural Language Processing in 2018 (learn_nlp_2018)
-I am interested in building up a curriculum that would be like a masters-level understanding of text analysis NLP. I want to have a firm understanding of theory, history and modern applied practice.
+I think [AwesomeNLP|https://github.com/keon/awesome-nlp] is awesome!
+
+I want to take all these materials, and organize them around course topics for an advanced understanding of NLP in theory and practice.
+
+
+
 
 ## Prerequisites / Background Knowledge
 
@@ -23,10 +28,15 @@ https://www.quora.com/How-do-I-learn-Natural-Language-Processing
 
 
 ## Materials and References
+
+Data Camp - Intro to Natural Language Processing
+https://campus.datacamp.com/courses/natural-language-processing-fundamentals-in-python/
+
 Jurafsky & Martin – Speech and Language Processing
 
 Coursera NLP Jurafsky / Martin
 https://www.youtube.com/playlist?list=PL8FFE3F391203C98C
+https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
 Stanford – NLP with Deep Learning Winter 2017
 http://web.stanford.edu/class/cs224n/
@@ -36,10 +46,29 @@ Columbia – NLP CS4705
 No videos but assignments and solutions, past midterms
 http://www.cs.columbia.edu/~mcollins/cs4705-spring2018/
 
+Johns Hopkins - NLP 465 Jason Eisner
+http://www.cs.jhu.edu/~jason/465/
 
 ### Recommended texts / links
 
 https://web.stanford.edu/~jurafsky/slp3/
+https://nlp.stanford.edu/fsnlp/
 http://u.cs.biu.ac.il/~yogo/nnlp.pdf
 http://www.deeplearningbook.org/
+https://nlp.stanford.edu/fsnlp/dontpanic.pdf
 
+
+### The Plan
+
+From Jurafsky/Martin's Coursera
+
+##### Text Manipulation
+1. Regular Expressions
+1. Word Tokenization
+1. Word Normalization / Stemming
+1. Sentence Segmentation
+
+##### Python NLP Libraries
+1. NLTK
+2. spaCy
+3. gensim
